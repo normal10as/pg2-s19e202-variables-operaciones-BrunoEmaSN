@@ -16,10 +16,10 @@ Module concatenacion
         Console.WriteLine("Fecha de inicio de Actividades")
         fia = Console.ReadLine()
 
-        Console.WriteLine("Concatenacion  Explicita")
-        Console.WriteLine("El nombre de la empresa es " & nde & " en la calle " & ndc & " al " & adc & " las actividades empiezan el " & fia)
         Console.WriteLine("Concatenacion  Implicita")
-        Console.WriteLine(nde & ";" & ndc & "," & adc & "," & fia)
+        Console.WriteLine("El nombre de la empresa es " & nde & " en la calle " & ndc & " al " & adc & " las actividades empiezan el " & fia)
+        Console.WriteLine("Concatenacion  Explicita")
+        Console.WriteLine("El nombre de la empresa es " + ndc + " en la calle " + nde + " al " + Convert.ToString(adc) + " las actividades empiezan el " + Convert.ToString(fia))
         Console.Read()
     End Sub
 End Module

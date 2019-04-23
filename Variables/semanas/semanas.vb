@@ -2,11 +2,11 @@ Imports System
 
 Module semanas
     Sub Main()
-        Dim da As Integer
-        Dim dl As Integer
-        Dim ds As Integer
-        Dim sa As Integer
-        Dim sl As Integer
+        Dim da As UShort
+        Dim dl As Byte
+        Dim ds As Byte
+        Dim sa As Byte
+        Dim sl As Byte
 
         da = 365
         dl = 180

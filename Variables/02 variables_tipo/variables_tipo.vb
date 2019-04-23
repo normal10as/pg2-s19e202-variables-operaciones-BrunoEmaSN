@@ -3,17 +3,17 @@ Imports System
 Module variables_tipo
     Sub Main()
         Dim nombre As String
-        Dim nd As Integer
+        Dim nd As UInteger
         Dim ldn As String
         Dim fdn As Date
-        Dim altura As Integer
+        Dim altura As Byte
         Dim sea As Boolean
         Dim ta As SByte
         Dim ndc As String
         Dim adc As Integer
-        Dim distancia As Integer
-        Dim profundidad As Integer
-        Dim cantidad As Integer
+        Dim distancia As UShort
+        Dim profundidad As UShort
+        Dim cantidad As UInteger
         Dim peso As Single
         Dim precio As Single
 
