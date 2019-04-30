@@ -3,21 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "01 variables_consola", "Variables\01 variables_consola.vbproj", "{A24F430A-DF12-4390-AF79-CF8B9A624565}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "01 variables_consola", "Variables\01 variables_consola.vbproj", "{A24F430A-DF12-4390-AF79-CF8B9A624565}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "02 variables_tipo", "02 variables_tipo\02 variables_tipo.vbproj", "{C71B51B0-476E-494B-A101-F423AFF3DDD0}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "02 variables_tipo", "02 variables_tipo\02 variables_tipo.vbproj", "{C71B51B0-476E-494B-A101-F423AFF3DDD0}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "03 concatenacion", "concatenacion\03 concatenacion.vbproj", "{A0FA3E6B-8113-47F8-B1B2-80C9C6F1412A}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "03 concatenacion", "concatenacion\03 concatenacion.vbproj", "{A0FA3E6B-8113-47F8-B1B2-80C9C6F1412A}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "04 aritmetica", "aritmetica\04 aritmetica.vbproj", "{43660054-D8BC-4291-9B1A-4C0F4AC35AB4}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "04 aritmetica", "aritmetica\04 aritmetica.vbproj", "{43660054-D8BC-4291-9B1A-4C0F4AC35AB4}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "05 ecuacion", "ecuacion\05 ecuacion.vbproj", "{49E23E4F-5377-4DE6-9899-4017B8B4A300}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "05 ecuacion", "ecuacion\05 ecuacion.vbproj", "{49E23E4F-5377-4DE6-9899-4017B8B4A300}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "06 sumatoria_y_media", "sumatoria_y_media\06 sumatoria_y_media.vbproj", "{A468FE52-6A94-4BAF-B902-C4B2239532D8}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "06 sumatoria_y_media", "sumatoria_y_media\06 sumatoria_y_media.vbproj", "{A468FE52-6A94-4BAF-B902-C4B2239532D8}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "07 semanas", "semanas\07 semanas.vbproj", "{F6E41C9A-0BBF-4C03-B362-D4117B053083}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "07 tablas_de_verdad", "tablas_de_verdad\07 tablas_de_verdad.vbproj", "{5C4EC516-9B7D-4A77-A051-2A9A90616013}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "08 tablas_de_verdad", "tablas_de_verdad\08 tablas_de_verdad.vbproj", "{5C4EC516-9B7D-4A77-A051-2A9A90616013}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "08 equivalencia_dias", "cuadratica\08 equivalencia_dias.vbproj", "{3B566242-6897-49A5-ABDB-27D147401FC8}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "09 intereses", "intereses\09 intereses.vbproj", "{6FD79C14-5ACB-4D84-B7D0-12AF9DF1C3C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,14 +51,18 @@ Global
 		{A468FE52-6A94-4BAF-B902-C4B2239532D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A468FE52-6A94-4BAF-B902-C4B2239532D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A468FE52-6A94-4BAF-B902-C4B2239532D8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F6E41C9A-0BBF-4C03-B362-D4117B053083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F6E41C9A-0BBF-4C03-B362-D4117B053083}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F6E41C9A-0BBF-4C03-B362-D4117B053083}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F6E41C9A-0BBF-4C03-B362-D4117B053083}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5C4EC516-9B7D-4A77-A051-2A9A90616013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5C4EC516-9B7D-4A77-A051-2A9A90616013}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C4EC516-9B7D-4A77-A051-2A9A90616013}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C4EC516-9B7D-4A77-A051-2A9A90616013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B566242-6897-49A5-ABDB-27D147401FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B566242-6897-49A5-ABDB-27D147401FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B566242-6897-49A5-ABDB-27D147401FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B566242-6897-49A5-ABDB-27D147401FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FD79C14-5ACB-4D84-B7D0-12AF9DF1C3C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD79C14-5ACB-4D84-B7D0-12AF9DF1C3C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD79C14-5ACB-4D84-B7D0-12AF9DF1C3C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD79C14-5ACB-4D84-B7D0-12AF9DF1C3C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -18,7 +18,7 @@ Module sumatoria_y_media
         d = Console.ReadLine()
 
         Console.WriteLine("Sumatoria: " & a + b + c + d)
-        Console.WriteLine("Media: " & (a + b + c + d) / 2)
+        Console.WriteLine("Media: " & (a + b + c + d) / 4)
         Console.Read()
     End Sub
 End Module
