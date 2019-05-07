@@ -11,7 +11,8 @@ Module intereses
         r = Console.ReadLine()
         Console.WriteLine("Duracion(Dias)")
         t = Console.ReadLine()
-        Console.WriteLine("I = (m*r*t)/(360*100) = " & (m * r * t) / (360 * 100))
+        Console.WriteLine("Intreses:" & (m * r * t) / (360 * 100))
+        Console.WriteLine("Capital Acumulado: " & ((m * r * t) / (360 * 100) + m))
         Console.Read()
     End Sub
 End Module
