@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <RootNamespace>semanas</RootNamespace>
+    <RootNamespace>Redondeo</RootNamespace>
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
