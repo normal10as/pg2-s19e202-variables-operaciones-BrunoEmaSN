@@ -8,8 +8,7 @@ Module Nueva_Fecha
         fecha = Console.ReadLine()
         Console.WriteLine("Ingrese los Dias")
         dias = Console.ReadLine()
-        fecha = New DateTime(Convert.ToInt32(fecha.Year), Convert.ToInt32(fecha.Month), (Convert.ToInt32(fecha.Day) + dias))
-        Console.WriteLine(fecha)
+        Console.WriteLine(fecha.AddDays(dias))
         Console.Read()
     End Sub
 End Module
