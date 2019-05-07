@@ -3,7 +3,7 @@ Imports System
 Module intereses
     Sub Main()
         Dim m, r As Single
-        Dim t As Integer
+        Dim t As UShort
 
         Console.WriteLine("Monto")
         m = Console.ReadLine()
