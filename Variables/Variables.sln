@@ -35,9 +35,11 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "15 Reafrase", "Reafrase\15 
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "16 Reloj", "Reloj\16 Reloj.vbproj", "{4FA5BC70-C9D3-4671-B419-CE29F5D004FE}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "18 Nueva_Fecha", "Nueva_Fecha\18 Nueva_Fecha.vbproj", "{4F9801DD-44D3-411C-8527-569F56A54EFE}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "18 Nueva_Fecha", "Nueva_Fecha\18 Nueva_Fecha.vbproj", "{4F9801DD-44D3-411C-8527-569F56A54EFE}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "17 Ajustar_Reloj", "Ajustar_Reloj\17 Ajustar_Reloj.vbproj", "{A60D695A-9523-4528-9190-BD12C9099F6F}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "17 Ajustar_Reloj", "Ajustar_Reloj\17 Ajustar_Reloj.vbproj", "{A60D695A-9523-4528-9190-BD12C9099F6F}"
+EndProject
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "19 dias", "dias\19 dias.vbproj", "{F0052312-0353-4922-B454-AA34CEAE498D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{A60D695A-9523-4528-9190-BD12C9099F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A60D695A-9523-4528-9190-BD12C9099F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A60D695A-9523-4528-9190-BD12C9099F6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0052312-0353-4922-B454-AA34CEAE498D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0052312-0353-4922-B454-AA34CEAE498D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0052312-0353-4922-B454-AA34CEAE498D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0052312-0353-4922-B454-AA34CEAE498D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

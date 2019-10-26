@@ -3,7 +3,7 @@ Imports System
 Module Nueva_Fecha
     Sub Main()
         Dim fecha As Date
-        Dim dias As Int32
+        Dim dias As Byte
         Console.WriteLine("Ingrese una Fecha(AAAA-MM-DD)")
         fecha = Console.ReadLine()
         Console.WriteLine("Ingrese los Dias")

@@ -3,9 +3,9 @@ Imports System
 Module equivalencia_dias
     Sub Main()
         Dim numero As Integer
-        Dim ds As Int16
-        Dim hd As Int16
-        Dim mh As Int16
+        Dim ds As Byte
+        Dim hd As Byte
+        Dim mh As Byte
 
         Console.WriteLine("Ingresar un numero")
         numero = Console.ReadLine()
